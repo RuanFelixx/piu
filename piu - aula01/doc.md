@@ -1,4 +1,5 @@
-#comandos
+# comandos
+tem que entrar no terminal do cmd no visual studio
 node -v
 npm -v
 npm create vite@latest
