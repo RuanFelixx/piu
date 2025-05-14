@@ -8,9 +8,9 @@ function App() {
 
   return (
     <>
-    <Escopo/>
-    <Redux/>
-    <Teste/>
+    <Escopo />
+    <Redux />
+    <Teste />
     </>
   )
 }
