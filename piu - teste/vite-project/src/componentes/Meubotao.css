@@ -1,0 +1,9 @@
+.imagem{
+    height: 300px;
+    width: 300px;
+}
+
+.coluna{
+    display: flex;
+    flex-direction: column;
+}
