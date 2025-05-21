@@ -1,16 +1,16 @@
 #  Comandos iniciais:
 * tem que entrar no terminal do cmd no visual studio 
-_
+___
     node -v 
-_
+___
     npm -v 
-_
+___
     npm create vite@latest 
-_
+___
     cd vite-project 
-_
+___
     npm install 
-_
+___
     npm run dev
 
-*lembrando que aparecera as opções pra comfirmar "y", react, js*
+**lembrando que aparecera as opções pra comfirmar "y", react, js** 
