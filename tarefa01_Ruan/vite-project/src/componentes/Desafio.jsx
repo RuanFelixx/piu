@@ -5,6 +5,7 @@ import hiandro from "../assets/hiandro.jpeg";
 import teo from "../assets/teo.jpeg";
 import brian from "../assets/brian.jpeg";
 import dudu from "../assets/dudu.jpeg";
+import hugo from "../assets/hugo.jpeg";
 
 function Desafio() {
   const [backgroundColor, setBackgroundColor] = useState('white');
@@ -42,6 +43,11 @@ function Desafio() {
       nome: "Dudu",
       img: dudu,
       descricao: 'Dudu o "homem" mais manicaca do if',
+    },
+    {
+      nome: "Hugo",
+      img: hugo,
+      descricao: 'hugo o cordenador de curso de info, ai pai para',
     },
   ];
 
