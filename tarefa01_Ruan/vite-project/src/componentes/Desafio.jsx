@@ -22,7 +22,7 @@ function Desafio() {
     {
       nome: "Arlon",
       img: arlon,
-      descricao: "Arlon chico pleto, promessa de jardin de piranhas e assasino da altinha.",
+      descricao: "Arlon chico pleto, promessa de jardin de piranhas, assasino da altinha e comparsa de Brian.",
     },
     {
       nome: "Hiandro",
@@ -81,3 +81,4 @@ function Desafio() {
 }
 
 export default Desafio;
+
