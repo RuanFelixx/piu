@@ -1,0 +1,21 @@
+/* Tema claro */
+.light {
+  background-color: white;
+  color: black;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* Tema escuro */
+.dark {
+  background-color: black;
+  color: white;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+button {
+  padding: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}

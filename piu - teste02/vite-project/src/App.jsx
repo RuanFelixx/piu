@@ -1,12 +1,14 @@
 import { useState } from 'react'
-import Dados from './componentes/Dados.jsx';
+import Ola from './componentes/Ola.jsx';
+import Contador from './componentes/Contador.jsx';
 import './App.css'
 
 function App() {
 
   return (
     <>
-      <Dados />
+      <Ola />
+      <Contador />
     </>
   )
 }
