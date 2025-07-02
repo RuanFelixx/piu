@@ -3,7 +3,7 @@ import './App.css';
 import Tema from './componentes/Tema.jsx';
 import Galeria from './componentes/Galeria.jsx';
 import Detalhes from './componentes/Detalhes.jsx';
-import personagens from './componentes/Personagem.jsx';
+import personagens from 
 
 function App() {
   const [backgroundColor, setBackgroundColor] = useState('white');
